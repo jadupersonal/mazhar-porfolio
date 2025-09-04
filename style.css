@@ -317,6 +317,7 @@ section {
     margin-bottom: 0.6rem;
     text-shadow: 0 0 20px rgba(0,0,0, 0.744);
     letter-spacing: 0.05rem;
+    font-family: 'poppin';
 }
 
 #socials_container {
